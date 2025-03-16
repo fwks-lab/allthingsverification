@@ -1,2 +1,0 @@
-# allthingsverification
-Website for allthingsverification
